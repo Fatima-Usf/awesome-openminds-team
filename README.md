@@ -51,6 +51,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
 * [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
+
 *[Comment foctionne un ordinateur] (http://lehollandaisvolant.net/)
 
 ### Learn to code
