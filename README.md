@@ -6,6 +6,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
+        * [Open Hardware](#open-hardware)
         * [eBooks](#ebooks)
         * [Geeky websites](#geek-websites)
         * [Good YouTube channels to follow](#good-youTube-channels)
@@ -51,12 +52,17 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
 * [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
+* [comment foncionne un ordinateur] (http://lehollandaisvolant.net/)
 
 *[Comment foctionne un ordinateur] (http://lehollandaisvolant.net/)
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
 * [Tutorialspoint](www.tutorialspoint.com/)
+
+### Open Hardware
+* [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
+* [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
 
 ### eBooks
 * [it-ebooks](http://it-ebooks.info/)
@@ -89,6 +95,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
+    * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
+    
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
